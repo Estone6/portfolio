@@ -21,7 +21,8 @@ export default function Home({ githubProfileData }) {
           title: "Zeeshan Khan",
           description:
             "A passionate Full Stack Web Developer and Mobile App Developer.",
-          image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+          image:
+            "https://avatars.githubusercontent.com/u/52932575?s=400&u=cad3175b613e8b755d4b651951ba5c4f88bb9f1a&v=4",
           url: "https://itszee.vercel.app",
           keywords: [
             "Zeeshan",
