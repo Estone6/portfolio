@@ -37,6 +37,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Software Developer Portfolio Template built with Next.js bootstrap that helps you showcase your work and skills as a software developer.
 
+### To view a live example, **[click here](https://itszee.vercel.app/)**.
+
 <p align="center">
   <kbd>
     <img src="https://github.com/Estone6/portfolio/blob/develop/picture.PNG"></img>
@@ -46,6 +48,15 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Credit For Design
 
 Github: [@1hanzla100](https://github.com/1hanzla100)
+
+## Author
+
+👤 **Zeeshan Khan**
+
+- Website: https://itszee.vercel.app
+- Twitter: [@1hanzla100](https://twitter.com/Zeeshan17794626)
+- Github: [@1hanzla100](https://github.com/Estone6)
+- LinkedIn: [@1hanzla100](https://www.linkedin.com/in/its-zeeshan-khan/)
 
 ## Show your support
 
