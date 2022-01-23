@@ -16,7 +16,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  linkedin: "https://www.linkedin.com/in/its-zeeshan-khan/",
+  linkedin: "https://www.linkedin.com/in/itszeeshan/",
   github: "https://github.com/Estone6",
   instagram: "https://www.instagram.com/its_zeeshan_khan/",
   facebook: "https://www.facebook.com/profile.php?id=100003090777069",
