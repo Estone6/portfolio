@@ -54,7 +54,7 @@ Github: [@1hanzla100](https://github.com/1hanzla100)
 👤 **Zeeshan Khan**
 
 - Website: https://itszee.vercel.app
-- Twitter: [@Estone6](https://twitter.com/Zeeshan17794626)
+- Twitter: [@Estone6](https://twitter.com/dev_zeeshan)
 - Github: [@Estone6](https://github.com/Estone6)
 - LinkedIn: [@Estone6](https://www.linkedin.com/in/itszeeshan/)
 

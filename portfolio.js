@@ -20,7 +20,7 @@ export const socialLinks = {
   github: "https://github.com/Estone6",
   instagram: "https://www.instagram.com/its_zeeshan_khan/",
   facebook: "https://www.facebook.com/profile.php?id=100003090777069",
-  twitter: "https://twitter.com/Zeeshan17794626",
+  twitter: "https://twitter.com/dev_zeeshan",
 };
 
 export const skillsSection = {
