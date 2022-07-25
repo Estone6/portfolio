@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "A passionate Full Stack Web Developer and Mobile App Developer having 3+ yrs experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
   resumeLink:
-    "https://drive.google.com/file/d/1RcTBSsOk3IMO3Z-cxUSgcNS2f537yNws/view?usp=sharing",
+    "https://drive.google.com/file/d/10tpli4DelgleCvNUNm9yaESsjWynb30e/view?usp=sharing",
 };
 
 export const openSource = {
@@ -105,7 +105,7 @@ export const SkillBars = [
   },
   {
     Stack: "Programming",
-    progressPercentage: "60",
+    progressPercentage: "70",
   },
 ];
 
@@ -138,24 +138,21 @@ export const experience = [
     company: "DMI",
     companylogo: "/img/icons/common/dmi.png",
     date: "Oct 2021 – Present",
-    desc: "Working as Software Engineer React having responsibilities of web and mobile projects.",
+    desc: "Working as Software Engineer having responsibilities of web and mobile applications.",
   },
   {
     role: "Software Engineer",
     company: "Aerchain",
     companylogo: "/img/icons/common/aerchain.png",
     date: "Nov 2019 – Sep 2021",
-    desc: "A procurement solution provider SaaS based company with a team size of 8 tech members.",
-    descBullets: [
-      "Requirement to Deployment ready feature in very efficient manner and minimal time",
-    ],
+    desc: "Requirement to Deployment ready feature in very efficient manner and minimal time",
   },
   {
     role: "Software Engineer Trainee",
     company: "Mountblue Technologies",
     companylogo: "/img/icons/common/mountblue.png",
     date: "Aug 2019 – Oct 2019",
-    desc: "Learned Full Stack Development and multiple techniques and tools to build a production ready app then was deployed to work for a client named Aerchain.",
+    desc: "Learned Full Stack Development and multiple techniques and tools to build a production ready app then was outsourced to Aerchain.",
   },
 ];
 
