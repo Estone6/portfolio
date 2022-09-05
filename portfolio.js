@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "A passionate Full Stack Web Developer and Mobile App Developer having 3+ yrs experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks and Cross Platform Mobile Apps With React Native.",
   resumeLink:
-    "https://drive.google.com/file/d/10tpli4DelgleCvNUNm9yaESsjWynb30e/view?usp=sharing",
+    "https://drive.google.com/file/d/1Ovug5G9xMy7wniB3CS2IAK7PgkbV_tDk/view?usp=sharing",
 };
 
 export const openSource = {
